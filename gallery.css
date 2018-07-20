@@ -1,0 +1,26 @@
+/*Modified small attributes to make it style differently*/
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,1);
+}
+.modifiedcolor {
+	background: #2c3e50;
+}
+.space {
+	margin-top: 1rem;
+}
+
+.autoprefixer {
+	font-size: 2rem;
+}
+.fontcolor {
+		color: #ecf0f1;
+}
+.jumbotron {
+	color: #2c3e50;
+}
+.jumbo-autoprefixer {
+	font-size: 3rem;
+	float: left;
+	padding-right: 1rem;
+}
+
